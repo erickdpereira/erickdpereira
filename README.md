@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou desenvolvedor Full Stack e acadêmico de Análise e Desenvolvimento de Sistemas (UNIFIP, com previsão de conclusão em 2026). Tenho um forte background técnico em hardware e otimização de sistemas, o que me proporciona uma visão analítica sobre como o código impacta a performance real da máquina.
+Sou desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas (UNIFIP, em 2026). Tenho um forte background técnico em hardware e otimização de sistemas, o que me proporciona uma visão analítica sobre como o código impacta a performance real da máquina.
 
 - 🎓 **Foco atual:** Desenvolvimento web e mobile com integrações complexas de banco de dados e gestão de usuários.
 - 💡 **Interesses:** Arquitetura de software, otimização de consultas SQL e criação de soluções escaláveis.
