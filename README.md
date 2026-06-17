@@ -19,7 +19,7 @@
 
 Sou desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas (UNIFIP, em 2026). Tenho um forte background técnico em hardware e otimização de sistemas, o que me proporciona uma visão analítica sobre como o código impacta a performance real da máquina.
 
-- 🎓 **Foco atual:** Desenvolvimento web e mobile com integrações complexas de banco de dados e gestão de usuários.
+- 🎓 **Foco atual:** Desenvolvimento em todas as áreas, sendo web ou mobile com integrações complexas de banco de dados e gestão de usuários.
 - 💡 **Interesses:** Arquitetura de software, otimização de consultas SQL e criação de soluções escaláveis.
 - 💬 **Pergunte-me sobre:** React Native, Django, PostgreSQL e setups de hardware de alto desempenho.
 
