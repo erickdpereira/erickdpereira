@@ -21,7 +21,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou desenvolvedor Full Stack, acadêmico em Análise e Desenvolvimento de Sistemas (UNIFIP, 2026) e fundador do **Logistock**, um sistema próprio de controle de estoque. Com uma vivência prática atuando como técnico em TI e um forte interesse em hardware, possuo uma visão analítica diferenciada: entendo profundamente como a arquitetura do código impacta o desempenho real da máquina e a experiência final do usuário.
+Sou desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas (UNIFIP, 2026) e fundador do **Logistock**, um sistema próprio de controle de estoque. Com uma vivência prática atuando como técnico em TI e um forte interesse em hardware, possuo uma visão analítica diferenciada: entendo profundamente como a arquitetura do código impacta o desempenho real da máquina e a experiência final do usuário.
 
 - 🎓 **Foco atual:** Desenvolvimento web e mobile de ponta a ponta, com ênfase em integrações complexas, gestão estruturada de usuários e modelagem de banco de dados.
 - 💡 **Interesses:** Arquitetura de software, otimização de consultas SQL, criação de soluções escaláveis e desenvolvimento de produtos SaaS.
